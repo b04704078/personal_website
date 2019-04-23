@@ -1,4 +1,8 @@
-# personal_website
-</br><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+# 前端程式設計 期中作業－個人履歷
+## B04704078 國企四 劉佳慧
+
+* 網址：
+https://b04704078.github.io/personal_website/
+
+* 模板使用：Colorlib
+https://colorlib.com/wp/template/personify/
